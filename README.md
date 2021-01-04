@@ -5,5 +5,5 @@ Finance Industry is the biggest consumer of Data Scientists. It faces constant a
 Required to try various techniques such as supervised models with oversampling, unsupervised anomaly detection, and heuristics to get good accuracy at fraud detection using Machine Learning and statistical Modelling Tecniques.
 
 Methods and Tenhniques implemented:
-ML techniques used are Logistic Regression,Naive Bayes,SVM and ensembled methods like RandomForest and Xgboost.
-Multivariate Gaussian distribute is used to detect anomaly in the transactions.
+1.ML techniques used are Logistic Regression,Naive Bayes,SVM and ensembled methods like RandomForest and Xgboost.
+2.Multivariate Gaussian distribution is used to detect anomaly in the transactions.
